@@ -1,7 +1,8 @@
 repo_name: terasa/the-example-app.swift
 report_id: 1f4bba00ad2811d2a1bd76b2632ca086
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:04:18+00:00'
+timestamp: '2024-01-04T14:55:32+00:00'
 requested_by: loudmouth
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift
   detection_source: Repo Metadata
 - name: Firebase
   description: The Realtime App Platform
@@ -45,6 +49,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-10-26 12:05:14.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: JP Wright
   last_updated_on: 2018-01-29 14:58:42.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Monitoring
   sub_category: Mobile Error Monitoring
   image_url: https://img.stackshare.io/service/264/Q3LJPRGx.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-02-05 16:11:00.000000000 Z
@@ -80,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/662/79c2d43ca09b8321909833f37a500799.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-02-05 16:11:00.000000000 Z
@@ -91,6 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift
   detection_source: Repo Metadata
 - name: Nimble
   description: A smart CRM that works directly inside your Office 365 or G Suite inbox
@@ -100,6 +109,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/1667/default_6aaea0ce628e92be84353e08ef20d8b269e0fe84.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2017-12-05 09:30:52.000000000 Z
@@ -111,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: JP Wright
   last_updated_on: 2017-11-14 13:23:38.000000000 Z
@@ -124,7 +135,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Mobile Continuous Integration
   image_url: https://img.stackshare.io/service/2383/11098337.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: JP Wright
   last_updated_on: 2018-01-29 14:58:42.000000000 Z
@@ -136,6 +147,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Cloud Content Management System
   image_url: https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-10-25 11:18:49.000000000 Z
@@ -147,7 +159,8 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
-  detection_source: Podfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Gemfile
+  detection_source: Gemfile
   last_updated_by: JP Wright
   last_updated_on: 2018-10-25 11:18:49.000000000 Z
 - name: AlamofireImage
@@ -160,7 +173,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-10-25 11:41:48.000000000 Z
@@ -174,7 +187,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2018-01-29 14:58:42.000000000 Z
@@ -188,7 +201,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2017-11-14 13:23:38.000000000 Z
@@ -202,7 +215,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: JP Wright
   last_updated_on: 2017-12-05 09:30:52.000000000 Z
@@ -215,6 +228,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: JP Wright
   last_updated_on: 2018-10-25 11:18:49.000000000 Z
@@ -228,7 +242,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18872/default_9f8a49220f5ab59465a6f5b8564bea999428120f.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/terasa/the-example-app.swift/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: JP Wright
   last_updated_on: 2018-01-10 00:13:09.000000000 Z

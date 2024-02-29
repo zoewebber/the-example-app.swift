@@ -2,7 +2,7 @@ repo_name: terasa/the-example-app.swift
 report_id: 1f4bba00ad2811d2a1bd76b2632ca086
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:24:47+00:00'
+timestamp: '2024-02-29T18:03:55+00:00'
 requested_by: loudmouth
 provider: github
 branch: master
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/terasa/the-example-app.swift
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -140,7 +140,7 @@ tools:
   last_updated_by: JP Wright
   last_updated_on: 2018-01-29 14:58:42.000000000 Z
 - name: Contentful
-  description: 'Contentful is a cloud-based API-first content platform '
+  description: Contentful is a cloud-based API-first content platform
   website_url: https://www.contentful.com/
   open_source: false
   hosted_saas: true

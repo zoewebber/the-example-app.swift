@@ -3,15 +3,15 @@
 ## Tech Stack
 terasa/the-example-app.swift is built on the following main stack:
 
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Crashlytics](http://crashlytics.com) – Mobile Error Monitoring
 - [Fabric](http://fabfile.org) – Server Configuration and Automation
-- [Contentful](https://www.contentful.com/) – Cloud Content Management System
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
 - [fastlane](https://fastlane.tools/) – Mobile Continuous Integration
+- [Contentful](https://www.contentful.com/) – Cloud Content Management System
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 terasa/the-example-app.swift is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/264/Q3LJPRGx.png' alt='Crashlytics'/> [Crashlytics](http://crashlytics.com) – Mobile Error Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/662/79c2d43ca09b8321909833f37a500799.png' alt='Fabric'/> [Fabric](http://fabfile.org) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png' alt='Contentful'/> [Contentful](https://www.contentful.com/) – Cloud Content Management System
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2383/11098337.png' alt='fastlane'/> [fastlane](https://fastlane.tools/) – Mobile Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png' alt='Contentful'/> [Contentful](https://www.contentful.com/) – Cloud Content Management System
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [terasa/the-example-app.swift](https://github.com/terasa/the-example-app.swift)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/05/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
